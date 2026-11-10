@@ -1,0 +1,10 @@
+target/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.env
+src/main/resources/db.properties
+
+# Local database credentials
+db.properties
